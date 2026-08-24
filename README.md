@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/MihirDhedhi/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MihirDhedhi/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/MihirDhedhi/LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0372-super-pow](https://github.com/MihirDhedhi/LeetCode/tree/master/0372-super-pow) |
 ## Sorting
 |  |
 | ------- |
@@ -101,4 +102,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/MihirDhedhi/LeetCode/tree/master/0324-wiggle-sort-ii) |
+## Math
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/MihirDhedhi/LeetCode/tree/master/0372-super-pow) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/MihirDhedhi/LeetCode/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/MihirDhedhi/LeetCode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
