@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MihirDhedhi/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/MihirDhedhi/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3537-fill-a-special-grid](https://github.com/MihirDhedhi/LeetCode/tree/master/3537-fill-a-special-grid) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/MihirDhedhi/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MihirDhedhi/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/MihirDhedhi/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3537-fill-a-special-grid](https://github.com/MihirDhedhi/LeetCode/tree/master/3537-fill-a-special-grid) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/MihirDhedhi/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -196,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/MihirDhedhi/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
+## Simulation
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/MihirDhedhi/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/MihirDhedhi/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
