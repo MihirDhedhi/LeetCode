@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/MihirDhedhi/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MihirDhedhi/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/MihirDhedhi/LeetCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/MihirDhedhi/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Sorting
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/MihirDhedhi/LeetCode/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MihirDhedhi/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/MihirDhedhi/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Array
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/MihirDhedhi/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MihirDhedhi/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/MihirDhedhi/LeetCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/MihirDhedhi/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -187,12 +190,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/MihirDhedhi/LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/MihirDhedhi/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/MihirDhedhi/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [3719-longest-balanced-subarray-i](https://github.com/MihirDhedhi/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MihirDhedhi/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/MihirDhedhi/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Sqrt Decomposition
 |  |
 | ------- |
@@ -223,4 +228,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/MihirDhedhi/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/MihirDhedhi/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MihirDhedhi/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/MihirDhedhi/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 <!---LeetCode Topics End-->
