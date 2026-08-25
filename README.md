@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/MihirDhedhi/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MihirDhedhi/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/MihirDhedhi/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3537-fill-a-special-grid](https://github.com/MihirDhedhi/LeetCode/tree/master/3537-fill-a-special-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/MihirDhedhi/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MihirDhedhi/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/MihirDhedhi/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3537-fill-a-special-grid](https://github.com/MihirDhedhi/LeetCode/tree/master/3537-fill-a-special-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/MihirDhedhi/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0427-construct-quad-tree](https://github.com/MihirDhedhi/LeetCode/tree/master/0427-construct-quad-tree) |
+| [3537-fill-a-special-grid](https://github.com/MihirDhedhi/LeetCode/tree/master/3537-fill-a-special-grid) |
 ## Greedy
 |  |
 | ------- |
