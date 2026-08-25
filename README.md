@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/MihirDhedhi/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/MihirDhedhi/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/MihirDhedhi/LeetCode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1763-longest-nice-substring](https://github.com/MihirDhedhi/LeetCode/tree/master/1763-longest-nice-substring) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/MihirDhedhi/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3537-fill-a-special-grid](https://github.com/MihirDhedhi/LeetCode/tree/master/3537-fill-a-special-grid) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/MihirDhedhi/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MihirDhedhi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MihirDhedhi/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MihirDhedhi/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1763-longest-nice-substring](https://github.com/MihirDhedhi/LeetCode/tree/master/1763-longest-nice-substring) |
 | [3719-longest-balanced-subarray-i](https://github.com/MihirDhedhi/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MihirDhedhi/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/MihirDhedhi/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MihirDhedhi/LeetCode/tree/master/0191-number-of-1-bits) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/MihirDhedhi/LeetCode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1763-longest-nice-substring](https://github.com/MihirDhedhi/LeetCode/tree/master/1763-longest-nice-substring) |
 ## Matrix
 |  |
 | ------- |
@@ -207,11 +210,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MihirDhedhi/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1763-longest-nice-substring](https://github.com/MihirDhedhi/LeetCode/tree/master/1763-longest-nice-substring) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/MihirDhedhi/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Sliding Window
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MihirDhedhi/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1763-longest-nice-substring](https://github.com/MihirDhedhi/LeetCode/tree/master/1763-longest-nice-substring) |
 ## Design
 |  |
 | ------- |
