@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MihirDhedhi/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/MihirDhedhi/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MihirDhedhi/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0932-beautiful-array](https://github.com/MihirDhedhi/LeetCode/tree/master/0932-beautiful-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/MihirDhedhi/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3537-fill-a-special-grid](https://github.com/MihirDhedhi/LeetCode/tree/master/3537-fill-a-special-grid) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/MihirDhedhi/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MihirDhedhi/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/MihirDhedhi/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MihirDhedhi/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0932-beautiful-array](https://github.com/MihirDhedhi/LeetCode/tree/master/0932-beautiful-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/MihirDhedhi/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3537-fill-a-special-grid](https://github.com/MihirDhedhi/LeetCode/tree/master/3537-fill-a-special-grid) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/MihirDhedhi/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/MihirDhedhi/LeetCode/tree/master/0372-super-pow) |
+| [0932-beautiful-array](https://github.com/MihirDhedhi/LeetCode/tree/master/0932-beautiful-array) |
 ## Euler's Totient Function
 |  |
 | ------- |
