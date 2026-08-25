@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/MihirDhedhi/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MihirDhedhi/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/MihirDhedhi/LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/MihirDhedhi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/MihirDhedhi/LeetCode/tree/master/0372-super-pow) |
 ## Sorting
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/MihirDhedhi/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/MihirDhedhi/LeetCode/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/MihirDhedhi/LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/MihirDhedhi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MihirDhedhi/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MihirDhedhi/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/MihirDhedhi/LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/MihirDhedhi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MihirDhedhi/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MihirDhedhi/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/MihirDhedhi/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/MihirDhedhi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MihirDhedhi/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/MihirDhedhi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -102,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/MihirDhedhi/LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/MihirDhedhi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -114,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/MihirDhedhi/LeetCode/tree/master/0372-super-pow) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MihirDhedhi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MihirDhedhi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
