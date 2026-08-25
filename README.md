@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/MihirDhedhi/LeetCode/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0654-maximum-binary-tree](https://github.com/MihirDhedhi/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MihirDhedhi/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0912-sort-an-array](https://github.com/MihirDhedhi/LeetCode/tree/master/0912-sort-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/MihirDhedhi/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3537-fill-a-special-grid](https://github.com/MihirDhedhi/LeetCode/tree/master/3537-fill-a-special-grid) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/MihirDhedhi/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -48,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MihirDhedhi/LeetCode/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/MihirDhedhi/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MihirDhedhi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/MihirDhedhi/LeetCode/tree/master/0912-sort-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/MihirDhedhi/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/MihirDhedhi/LeetCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/MihirDhedhi/LeetCode/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/MihirDhedhi/LeetCode/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MihirDhedhi/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/MihirDhedhi/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Array
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/MihirDhedhi/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0654-maximum-binary-tree](https://github.com/MihirDhedhi/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MihirDhedhi/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0912-sort-an-array](https://github.com/MihirDhedhi/LeetCode/tree/master/0912-sort-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/MihirDhedhi/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3537-fill-a-special-grid](https://github.com/MihirDhedhi/LeetCode/tree/master/3537-fill-a-special-grid) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/MihirDhedhi/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -168,11 +172,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MihirDhedhi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/MihirDhedhi/LeetCode/tree/master/0912-sort-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/MihirDhedhi/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MihirDhedhi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/MihirDhedhi/LeetCode/tree/master/0912-sort-an-array) |
 ## String
 |  |
 | ------- |
@@ -217,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Radix Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/MihirDhedhi/LeetCode/tree/master/0912-sort-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/MihirDhedhi/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Simulation
 |  |
@@ -229,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/MihirDhedhi/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MihirDhedhi/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/MihirDhedhi/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/MihirDhedhi/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
